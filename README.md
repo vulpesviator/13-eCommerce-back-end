@@ -21,7 +21,7 @@ To run this application locally, clone or download the repo which contains the n
 
 [Video Walkthrough of the eCommerce Back-End](https://drive.google.com/file/d/1U2EutwXn3o-vG4H8U1wOwNXP1NzlEzKh/view?usp=sharing)
 
-![eCommerce Back-End](./assets/img.gif)
+![eCommerce Back-End](https://github.com/vulpesviator/13-eCommerce-back-end/assets/123843930/2cf312cd-8a9f-4f41-b0f8-e8a6fa487591)
 
 1. Begin by logging into your local MySQL environment with `mysql -u root -p`. You will be prompted to enter your password for your MySQL instance.
 2. Next locate the schema source for your database by entering `source db/schema.sql` or the path to the schema.sql file in your directory. This should respond with the database being created. If created successfully you can exit the MySQL interface with `exit`
